@@ -1,1 +1,1 @@
-# bestbuyMERN
+# bestbuy-mern
