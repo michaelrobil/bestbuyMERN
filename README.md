@@ -16,7 +16,7 @@ By running search on the home page and clicking on the ‘add to cart’ button 
 - APIs: Bestbuy
 
 ## License
-Unlicense
+MIT License
 
 ## How to use this code
 Visit the app site at Heroku below. If you wish to copy and edit the code, you will need to run npm install to retrieve the necessary dependencies.
