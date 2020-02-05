@@ -12,7 +12,7 @@ By running search on the home page and clicking on the ‘add to cart’ button 
 - Javascript, jQuery, Ajax
 - Node, Axios, Express
 - Heroku
-- Mangodb
+- MongoDB
 - APIs: Bestbuy
 
 ## License
