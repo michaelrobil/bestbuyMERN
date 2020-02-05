@@ -1,7 +1,7 @@
 # bestbuy-mern
 
 ## About
-This application is intended as a tool for buyers who want to search for something on bestbuy and add it to his/her own cart .
+This web application is intended as a tool for buyers who want to search for something on bestbuy and add it to his/her own cart .
 By running search on the home page and clicking on the ‘add to cart’ button  to add to the cart, In the cart will be the added items with the delete option. 
 
 ## Contributors
