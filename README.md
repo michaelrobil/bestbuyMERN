@@ -2,7 +2,8 @@
 
 ## About
 This web application is intended as a tool for buyers who want to search for something on bestbuy and add it to his/her own cart .
-By running search on the home page and clicking on the ‘add to cart’ button  to add to the cart, In the cart will be the added items with the delete option. 
+You can add the Item to the cart by running search on the home page and clicking on the ‘add to cart’ button. The user can also remove unwanted item from the cart.
+
 
 ## Contributors
 [Michael Robil](https://github.com/michaelrobil)
