@@ -4,6 +4,7 @@
 This web application is intended as a tool for buyers who want to search for something on bestbuy and add it to his/her own cart .
 You can add the Item to the cart by running search on the home page and clicking on the ‘add to cart’ button. The user can also remove unwanted item from the cart.
 
+![04-bestbuy](https://user-images.githubusercontent.com/56613553/74096066-6f048e80-4abf-11ea-9b79-ead208748d67.png)
 
 ## Contributors
 [Michael Robil](https://github.com/michaelrobil)
